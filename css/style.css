@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	background-color: skyblue;
+	min-height: 100px;
+	margin-bottom: 10px;
+}
+.wrapper{
+	overflow: hidden;
+}
+.side{
+	min-height: 600px;
+	width: 35%;
+	float: left;
+	background-color: skyblue;
+}
+.banner{
+	min-height: 100px;
+	float: right;
+	width: 60%;
+	margin-bottom: 10px;
+	background-color: skyblue;
+	text-align: center;
+}
+.body{
+	min-height: 490px;
+	float: right;
+	width: 60%;
+	margin-bottom: 10px;
+	background-color: skyblue;
+	text-align: center;
+}
+.footer{
+	min-height: 70px;
+	background-color: skyblue;
+	text-align: center;
+	margin-top: 10px;
+}
